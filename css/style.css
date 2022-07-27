@@ -47,19 +47,15 @@
     height: 46px;
 }
 
-ul.menu {
-    float: right;
+ul.menu li {
+    list-style: none;
+    border-radius: 5px;
+    background-color: rgb(242, 237, 231);
+    padding: 1%;
+    margin: 26px 55px 10px 250px;
 }
 
 
-ul.menu li{
-    padding: 10px 30px 10px 20px;
-    list-style: none;
-    margin: 15px 10px 10px 3px;
-    border: solid 10px #fff;
-    border-radius: 5px;
-    background-color: bisque;
-}  
 
 
 .site_content{
@@ -86,8 +82,18 @@ ul.menu li{
     background-color: rgb(224, 216, 207);
 }
 
+img  {
+    border-radius: 5px;
+    border:solid 5px white;
+  
+}
 
-
+p {
+    text-align: left;
+    width: 620px;
+    padding: 0 0 0 5px;
+    float: left; 
+}
 
 
 

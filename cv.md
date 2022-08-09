@@ -2,7 +2,7 @@
 
 ***Junior frontend developer***
 
-*********
+*******
 
 ***Contact***
 

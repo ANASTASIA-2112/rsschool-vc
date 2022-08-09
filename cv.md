@@ -1,7 +1,10 @@
 ***ANASTASIA ADAMOVICH***
 
 ***Junior frontend developer***
-******
+
+
+*******
+
 
 ***Contact***
 
